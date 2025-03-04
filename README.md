@@ -46,4 +46,4 @@ This project is developed by the Duckie-Dynamics team:
 🧑‍💻 Himanshu Joshi
 👩‍💻 Bingjie Xue
 🧑‍💻 Angel Manzano
-🧑‍💻 Thorbjorn Hollwarth
+🧑‍💻 Thorbjörn Höllwarth
